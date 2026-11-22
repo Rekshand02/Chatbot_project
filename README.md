@@ -1,4 +1,4 @@
 # Chatbot_project
-This repo will have a chatbot project
-It is my first chatbot
-Tools used are VS code and node.js
+This file consists of all the information regarding the chatbot project and it contains all the files like server.js and package.json
+
+It also has the details regarding the API keys.
